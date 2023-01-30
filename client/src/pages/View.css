@@ -1,0 +1,18 @@
+.Card {
+    width: 30%;
+    display: flex;
+    flex-direction: column;
+    margin: 0 auto;
+    align-content: center;
+}
+.Card h2{
+    color: blueviolet;
+}
+.Card button{
+    border-radius: 15px;
+    padding: 15px 20px;
+    background-color: aqua;
+}
+.Container{
+    padding: 15px 20px;
+}

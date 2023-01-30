@@ -1,0 +1,50 @@
+.btn-edit{
+    background-color: #13b2da;
+
+}
+.btn-view{
+    background-color: #da8413;
+
+
+}
+.btn-delete{
+    background-color: #fc3ae8;
+
+}
+.styled-table{
+    border-collapse: collapse;
+    margin: auto;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin: auto;
+}
+.btn{
+    border: none;
+    text-align: center;
+    padding: auto;
+    cursor: pointer;
+    padding: 5px,8px;
+    border-radius: 5px;
+    margin:4px 2px;
+}
+    .styled-table th,.styled-table td{
+        padding: 12px 15px;
+        
+
+    }
+.styled-table th{
+    background-color:#1b1927;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color:#edecf4;
+}    
+styled-table  tbody td{
+    
+    padding-top: 15px;
+    padding-bottom: 15px;
+}  
+.btn-contact{
+    background-color:rebeccapurple;
+    color: darkkhaki;
+    font-size: 15px;
+    padding: 10px 10px;
+}  
